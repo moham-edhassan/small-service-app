@@ -1,0 +1,9 @@
+node_modules
+.next
+.venv
+output/*
+!output/.gitkeep
+temp/*
+!temp/.gitkeep
+*.log
+.DS_Store
